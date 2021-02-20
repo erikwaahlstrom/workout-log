@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "normalize.css"; // tslint:disable-line:no-import-side-effect
-import { jsx, Global, css } from "@emotion/react";
+import {  Global, css } from "@emotion/react";
 import App from "./components/App";
 import reportWebVitals from "./reportWebVitals";
 
